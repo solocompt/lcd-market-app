@@ -14,7 +14,6 @@
             'app.market',
             'app.tables',
             'ngFileUpload',
-            'ngImgCrop',
             'restmod',
             'restmod.styles.drfPaged',
             'angularMoment'
