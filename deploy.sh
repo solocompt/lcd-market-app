@@ -17,7 +17,7 @@ fi
 git push origin master
 
 
-gulp
+gulp build
 
 
 docker-machine start default
