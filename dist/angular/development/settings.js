@@ -4,9 +4,9 @@
     angular
         .module('app.core')
         .constant('AppSettings', {
-            appName: 'LCD Market',
+            appName: 'Solo Market',
             appVersion: 0.1,
-            apiUrl: 'http://api.market.soloweb.pt',
+            apiUrl: 'https://api.market.soloweb.pt',
             systemId: 4
         });
 })();
